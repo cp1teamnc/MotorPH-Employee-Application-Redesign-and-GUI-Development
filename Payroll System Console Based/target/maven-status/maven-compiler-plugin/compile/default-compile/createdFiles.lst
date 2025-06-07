@@ -1,1 +1,6 @@
-TeamNC_codesbyKelsy\MotorPH.class
+GUI/LoginFrame.class
+GUI/User.class
+GUI/AuthenticationService.class
+GUI/CsvLoader.class
+GUI/SpecificEmployeeFrame.class
+GUI/MotorPHFrame.class
